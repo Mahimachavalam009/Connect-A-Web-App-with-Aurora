@@ -103,3 +103,4 @@ Log in using your IAM user's username and password in the .csv file.
 
 
 # Step 2 : Launch an EC2 instance for your web app
+Work in progress
